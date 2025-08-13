@@ -1,0 +1,13 @@
+# Core data science libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+scipy
+ipykernel
+
+# for model interpretation
+shap
